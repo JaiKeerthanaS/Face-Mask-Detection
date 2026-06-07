@@ -11,6 +11,14 @@ This project detects whether a person is wearing a face mask in real time using 
 - TensorFlow
 - CNN
 
+ # Dataset used:
+Face Mask Dataset from Kaggle.
+Download and place it inside:
+
+dataset/
+├── with_mask/
+└── without_mask/
+
 ## Features
 
 - Real-time face detection
